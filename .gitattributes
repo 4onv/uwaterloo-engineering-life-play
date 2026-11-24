@@ -1,0 +1,9 @@
+# Count the game's authored source in GitHub's language breakdown.
+*.ts linguist-detectable=true
+*.py linguist-detectable=true
+*.sh linguist-detectable=true
+*.css linguist-detectable=true
+
+# Produced by the studio generator and the seeded campaign simulator.
+src/studios.json linguist-generated=true
+balance-report.json linguist-generated=true

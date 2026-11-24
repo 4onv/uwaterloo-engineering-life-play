@@ -6,7 +6,7 @@ A full-screen, single-player 2D game about getting from Grade 12 admissions to a
 
 ![Expanded full-screen campus gameplay](docs/gameplay.jpg)
 
-The public repository contains the playable TypeScript source, Python studio-card generator, local save server, and the Bash checks used by GitHub Pages.
+The [TypeScript engine](src/engine.ts) runs the game in the browser after compilation to JavaScript. [Python generates the studio cards](tools/studios.py) and powers the [local SQLite save server](server.py). GitHub Actions runs the [Bash verification script](scripts/check-game.sh) before deploying to Pages.
 
 ## Play locally
 
