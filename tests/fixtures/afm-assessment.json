@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "rng": 42,
+  "name": "AFM QA",
+  "difficulty": "balanced",
+  "program": "software",
+  "stream": 8,
+  "grade12": 90,
+  "admissionRolled": true,
+  "admissionAttempts": 0,
+  "stage": "assessment",
+  "termIndex": 1,
+  "week": 4,
+  "stats": {
+    "stress": 90,
+    "energy": 10,
+    "morale": 5,
+    "cash": 5200,
+    "skill": 15,
+    "network": 10,
+    "prep": 0,
+    "reputation": 15
+  },
+  "gpa": 40,
+  "grades": [
+    40
+  ],
+  "coopRatings": [],
+  "completedCoops": 0,
+  "caliOffers": 0,
+  "strikes": 1,
+  "recoveries": 0,
+  "location": "e7",
+  "selectedJob": null,
+  "bonusPlayed": false,
+  "assessmentScore": null,
+  "pendingEvent": null,
+  "seenEvents": [],
+  "friends": {
+    "maya": 10,
+    "leo": 10,
+    "sam": 15
+  },
+  "items": [],
+  "achievements": [],
+  "log": [],
+  "report": null,
+  "ending": null,
+  "totalActions": 0,
+  "termIncome": 0,
+  "bestStreak": 0,
+  "streak": 0,
+  "createdAt": "2026-11-18T00:35:44.736Z",
+  "termPressure": 8,
+  "visitedLocations": [
+    "e7"
+  ],
+  "eventEndsWeek": true,
+  "campusCondition": "quiet",
+  "lastAction": null
+}

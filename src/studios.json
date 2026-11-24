@@ -1,0 +1,198 @@
+[
+  {
+    "program": "software",
+    "location": "e7",
+    "name": "Test the timetable app",
+    "description": "Trace a timetable clash through the team's regression tests.",
+    "id": "studio-software-e7"
+  },
+  {
+    "program": "software",
+    "location": "dana",
+    "name": "Sketch an undo stack",
+    "description": "Work out what the editor needs to remember after each change.",
+    "id": "studio-software-dana"
+  },
+  {
+    "program": "computer",
+    "location": "e7",
+    "name": "Wire the scoreboard",
+    "description": "Link the display board to its controller and check each digit.",
+    "id": "studio-computer-e7"
+  },
+  {
+    "program": "computer",
+    "location": "dana",
+    "name": "Map a cache miss",
+    "description": "Follow a memory request from a processor to RAM.",
+    "id": "studio-computer-dana"
+  },
+  {
+    "program": "electrical",
+    "location": "e7",
+    "name": "Tune the audio filter",
+    "description": "Compare the bench output with the frequency response you predicted.",
+    "id": "studio-electrical-e7"
+  },
+  {
+    "program": "electrical",
+    "location": "dana",
+    "name": "Trace the circuit",
+    "description": "Check where the voltage drops in a resistive network.",
+    "id": "studio-electrical-dana"
+  },
+  {
+    "program": "mechanical",
+    "location": "e7",
+    "name": "Test a gearbox",
+    "description": "Measure how much torque makes it through the model drivetrain.",
+    "id": "studio-mechanical-e7"
+  },
+  {
+    "program": "mechanical",
+    "location": "dana",
+    "name": "Compare beam deflections",
+    "description": "Sketch how a shelf bends under three different loads.",
+    "id": "studio-mechanical-dana"
+  },
+  {
+    "program": "mechatronics",
+    "location": "e7",
+    "name": "Tune the line follower",
+    "description": "Adjust the controller until the team's rover takes a bend cleanly.",
+    "id": "studio-mechatronics-e7"
+  },
+  {
+    "program": "mechatronics",
+    "location": "dana",
+    "name": "Plot the sensor drift",
+    "description": "Use a calibration log to separate bias from noise.",
+    "id": "studio-mechatronics-dana"
+  },
+  {
+    "program": "biomedical",
+    "location": "e7",
+    "name": "Mock up a grip aid",
+    "description": "Compare two handle shapes using a weighted classroom model.",
+    "id": "studio-biomedical-e7"
+  },
+  {
+    "program": "biomedical",
+    "location": "dana",
+    "name": "Map a clinic visit",
+    "description": "Spot where a device interface asks too much of its user.",
+    "id": "studio-biomedical-dana"
+  },
+  {
+    "program": "systems",
+    "location": "e7",
+    "name": "Test a wayfinding sign",
+    "description": "Watch how volunteers use two layouts to find a studio.",
+    "id": "studio-systems-e7"
+  },
+  {
+    "program": "systems",
+    "location": "dana",
+    "name": "Map the bus queue",
+    "description": "Model how a late bus changes the length of the next queue.",
+    "id": "studio-systems-dana"
+  },
+  {
+    "program": "chemical",
+    "location": "e7",
+    "name": "Model a juice line",
+    "description": "Balance material flows across a small fictional bottling plant.",
+    "id": "studio-chemical-e7"
+  },
+  {
+    "program": "chemical",
+    "location": "dana",
+    "name": "Trace a heat exchanger",
+    "description": "Follow two streams of water as they exchange heat.",
+    "id": "studio-chemical-dana"
+  },
+  {
+    "program": "civil",
+    "location": "e7",
+    "name": "Load the model span",
+    "description": "Watch how a scale bridge transfers weight to its supports.",
+    "id": "studio-civil-e7"
+  },
+  {
+    "program": "civil",
+    "location": "dana",
+    "name": "Sketch a transit corridor",
+    "description": "Trace how a bus lane would change the morning commute.",
+    "id": "studio-civil-dana"
+  },
+  {
+    "program": "architectural",
+    "location": "e7",
+    "name": "Build a facade model",
+    "description": "Compare how two mock-ups shade the same studio window.",
+    "id": "studio-architectural-e7"
+  },
+  {
+    "program": "architectural",
+    "location": "dana",
+    "name": "Check a wall section",
+    "description": "Sketch where heat escapes through a window assembly.",
+    "id": "studio-architectural-dana"
+  },
+  {
+    "program": "management",
+    "location": "e7",
+    "name": "Run a queue experiment",
+    "description": "Change the service order and measure the wait at a mock counter.",
+    "id": "studio-management-e7"
+  },
+  {
+    "program": "management",
+    "location": "dana",
+    "name": "Schedule the shop floor",
+    "description": "Fit three jobs around one shared machine.",
+    "id": "studio-management-dana"
+  },
+  {
+    "program": "geological",
+    "location": "e7",
+    "name": "Read a core log",
+    "description": "Use a classroom sample log to mark the rock layers under a site.",
+    "id": "studio-geological-e7"
+  },
+  {
+    "program": "geological",
+    "location": "dana",
+    "name": "Map a slope section",
+    "description": "Compare two profiles and trace the path of groundwater.",
+    "id": "studio-geological-dana"
+  },
+  {
+    "program": "environmental",
+    "location": "e7",
+    "name": "Model a treatment train",
+    "description": "Trace water through a tabletop model of a treatment plant.",
+    "id": "studio-environmental-e7"
+  },
+  {
+    "program": "environmental",
+    "location": "dana",
+    "name": "Read the watershed map",
+    "description": "Follow rain from a parking lot to the nearest creek.",
+    "id": "studio-environmental-dana"
+  },
+  {
+    "program": "nano",
+    "location": "e7",
+    "name": "Inspect a wafer image",
+    "description": "Compare patterned features across a set of supplied microscope images.",
+    "id": "studio-nano-e7"
+  },
+  {
+    "program": "nano",
+    "location": "dana",
+    "name": "Chart the thin films",
+    "description": "Plot film thickness against a sample's measured resistance.",
+    "id": "studio-nano-dana"
+  }
+]
